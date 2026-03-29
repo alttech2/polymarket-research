@@ -11,13 +11,14 @@ This repo contains two interactive React dashboards:
 
 ## Documents
 
-The `docs/` folder contains three Word documents:
+The `docs/` folder contains four documents:
 
 | Document | Purpose |
 |---|---|
-| `01_Gap_Analysis_Summary.docx` | Process, methodology (tag-based counting), iterative correction table, core findings by tier |
-| `02_Assessment_Matrix_Summary.docx` | Three scoring criteria, regulatory landscape (CFTC ANPRM, Staff Advisory, Gambling Act), findings by risk-return profile |
-| `03_Strategic_Recommendations.docx` | Prioritized action plan: political derivatives → Health & Biotech → defensible sports → structural nav changes |
+| `01_Gap_Analysis_Summary.docx` | Process, methodology (tag-based counting), core findings ranked by tier |
+| `02_Assessment_Matrix_Summary.docx` | Scoring criteria, regulatory landscape (CFTC ANPRM, Staff Advisory, Gambling Act), findings by risk-return profile |
+| `03_Strategic_Recommendations.docx` | Identifies and prioritizes market expansion opportunities across Polymarket's existing categories and one genuinely new category |
+| `04_Market_Intelligence_Framework.docx` | A four-component framework designed to systematically identify, evaluate, and act on market creation and expansion opportunities |
 
 ## Getting Started
 
@@ -52,20 +53,11 @@ This creates a `dist/` folder with static files that can be deployed to any host
 
 ## Key Findings
 
-**Polymarket's coverage is far more comprehensive than commonly understood.** The platform hosts 5,399 crypto markets, 1,638 political markets ($2.2B volume), 470 AI markets, 372 culture markets ($149.1M), 270 economy markets ($77.1M), 440+ weather/climate markets, and 133 interest rate markets ($538.4M). Many categories that appeared underdeveloped already have hundreds of active markets.
 
-**The highest-value, lowest-risk expansion path runs through political derivatives** — VP nominee markets ($90-180M), state primaries ($50-100M), aggregated midterm indices ($20-55M), and legislative outcomes ($25-60M). These combine proven legal standing, high wisdom-of-crowds value, and substantial volume potential.
-
-**Health & Biotech is the only genuinely new category** confirmed as absent from Polymarket. 40+ FDA PDUFA dates per year provide known-date binary outcomes with 20-50% stock price moves. Estimated at $50-150M/yr once established.
-
-**Sports markets offer the largest raw volume but face existential regulatory risk** from the CFTC Staff Advisory (March 2026), the bipartisan Prediction Markets Are Gambling Act, and state-level criminal charges. Aggregate/extended-period formats (win totals, awards) are more defensible than per-game player props.
 
 ## Methodology
 
-- Market counts and volumes sourced from Polymarket prediction tag pages (tag-based totals, not subcategory grid counts)
-- All figures verified as of March 27, 2026
-- Regulatory risk assessed against: CFTC ANPRM (Mar 16, 2026), Staff Advisory No. 26-08 (Mar 12, 2026), Prediction Markets Are Gambling Act (Schiff/Curtis, Mar 2026), Arizona criminal charges (Mar 17, 2026), CFTC Enforcement Advisory on insider trading (Feb 2026)
-- Volume estimates derived from comparable existing markets, traditional market analogs, and audience size estimates
+
 
 ## Tech Stack
 
