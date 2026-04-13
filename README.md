@@ -17,10 +17,10 @@ The `docs/` folder contains four documents:
 
 | Document | Purpose |
 |---|---|
-| `01_Gap_Analysis_Summary.docx` | Process, methodology (tag-based counting), core findings ranked by tier |
-| `02_Assessment_Matrix_Summary.docx` | Scoring criteria, regulatory landscape (CFTC ANPRM, Staff Advisory, Gambling Act), findings by risk-return profile |
-| `03_Strategic_Recommendations.docx` | Identifies and prioritizes market expansion opportunities across Polymarket's existing categories and one genuinely new category |
-| `04_Market_Intelligence_Framework.docx` | A four-component framework designed to systematically identify, evaluate, and act on market creation and expansion opportunities |
+| `01_Gap_Analysis_Summary.pdf` | Process, methodology (tag-based counting), core findings ranked by tier |
+| `02_Assessment_Matrix_Summary.pdf` | Scoring criteria, regulatory landscape (CFTC ANPRM, Staff Advisory, Gambling Act), findings by risk-return profile |
+| `03_Strategic_Recommendations.pdf` | Identifies and prioritizes market expansion opportunities across Polymarket's existing categories and one genuinely new category |
+| `04_Market_Intelligence_Framework.pdf` | A four-component framework designed to systematically identify, evaluate, and act on market creation and expansion opportunities |
 
 ## Getting Started
 
